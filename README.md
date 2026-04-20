@@ -1,143 +1,178 @@
-## Hi there, I am Animesh! 👋
+<div align="center">
 
-<!--
-**CodeyCaneCandy/CodeyCaneCandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+ █████╗ ███╗   ██╗██╗███╗   ███╗███████╗███████╗██╗  ██╗
+██╔══██╗████╗  ██║██║████╗ ████║██╔════╝██╔════╝██║  ██║
+███████║██╔██╗ ██║██║██╔████╔██║█████╗  ███████╗███████║
+██╔══██║██║╚██╗██║██║██║╚██╔╝██║██╔══╝  ╚════██║██╔══██║
+██║  ██║██║ ╚████║██║██║ ╚═╝ ██║███████╗███████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-Here are some ideas to get you started:
+### Machine Learning · Computer Vision · AI Systems · Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**Machine Learning | Computer Vision | AI Systems | Python Developer**
+<br/>
 
-👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeyCaneCandy)
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CodeyCaneCandy.CodeyCaneCandy&style=flat-square)](https://github.com/CodeyCaneCandy)
 
-I am an undergraduate engineer passionate about building intelligent systems that combine Machine Learning, Computer Vision, and scalable AI architectures.
+<br/>
 
-My work focuses on designing real-world ML pipelines — from model training and optimization to deployment and system integration.
+*"I build systems where models don't just predict — they interact,*
+*agents don't just respond — they collaborate,*
+*and vision systems don't just detect — they understand context."*
 
-I enjoy building systems where:
+</div>
 
-Models don’t just predict — they interact
+---
 
-Agents don’t just respond — they collaborate
+## Who I Am
 
-Vision systems don’t just detect — they understand context
+I'm an undergraduate engineer obsessed with the intersection of **Machine Learning**, **Computer Vision**, and **AI Systems Engineering**. My work lives at the boundary between research and real deployment — designing pipelines that don't just work in notebooks but hold up under environmental constraints, edge cases, and real-world unpredictability.
 
-🧠 Core Expertise
+I gravitate toward problems that require systems thinking: where getting one model right isn't enough, and the architecture around it matters just as much.
 
-🔹 Machine Learning
+---
 
--Supervised & Unsupervised Learning
+## Core Expertise
 
--Model inference pipelines
+<table>
+<tr>
+<td valign="top" width="50%">
 
--Quantization & optimization
+### 🔬 Machine Learning
+- Supervised & unsupervised learning pipelines
+- Model inference, quantization & optimization
+- Feature engineering & preprocessing at scale
+- Experimental ML architecture design
 
--Feature engineering & preprocessing
+### 👁 Computer Vision
+- YOLO-based detection — v8, v10
+- Real-time video inference pipelines
+- OCR with temporal consistency voting
+- ADAS-focused perception systems
+- CLAHE, gamma correction, normalization
+- Environmental robustness — low light, rain, fog
+- Photometric & geometric transformations
 
--Experimental ML implementations
+</td>
+<td valign="top" width="50%">
 
-🔹 Computer Vision
+### 🤖 AI Systems Engineering
+- Multi-agent frameworks (AutoGen-based)
+- Conversation monitoring & failure detection
+- Model switching & inference orchestration
+- Token overflow detection & recovery
+- AI system observability & diagnostics
+- Agent-to-agent communication design
 
--YOLO-based object detection (v8/v10)
+### 🐍 Python Stack
+- PyTorch · OpenCV · NumPy · Pandas
+- YOLO · sentence-transformers · FastAPI
+- YAML-based model configuration
+- scikit-learn · XGBoost
 
--Real-time video inference
+</td>
+</tr>
+</table>
 
--OCR pipelines with temporal voting
+---
 
--ADAS-related perception systems
+## Notable Projects
 
--Photometric & geometric transformations
+<table>
+<tr>
+<td width="50%" valign="top">
 
--Image preprocessing (CLAHE, gamma correction, normalization)
+### 🚗 Real-Time Traffic Sign + OCR Detection
+> *YOLO · OCR · ADAS · Environmental Adaptation*
 
--Edge-case handling & environmental robustness
+A full ADAS-focused perception system built for real-world deployment conditions — not just clean benchmark datasets.
 
-🔹 AI Systems Engineering
+- YOLO-based detection pipeline (v8/v10)
+- OCR engine with **temporal voting logic** for consistency across frames
+- Speed-limit validation against threshold rules
+- Environmental adaptation — low light, rain, fog handling
+- Designed to reflect real ADAS system constraints
 
--Multi-agent AI frameworks (AutoGen-based architectures)
+</td>
+<td width="50%" valign="top">
 
--Conversation monitoring & failure detection systems
+### 🛡 Multi-Agent AI Monitoring Framework
+> *AutoGen · Gemini · Agent Orchestration*
 
--Model switching & inference orchestration
+A `SurveillanceAgent` that watches over multi-agent conversations and catches failures humans would miss.
 
--Token overflow detection & recovery
+- Detects API failures, model errors, conversation deadlocks, token overflows
+- Integrates **Gemini** for intelligent diagnostics and recovery suggestions
+- Agent-to-agent communication visualization
+- Designed for AI system observability in production-like settings
 
--AI system observability & diagnostics
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🔹 Python Stack
+### 🎤 Live Meeting Companion
+> *Multi-Agent · RAG · Notion · Slack*
 
--PyTorch
+An AI assistant system that turns live meetings into structured knowledge — in real time.
 
--OpenCV
+- Live transcription pipeline
+- Multi-agent orchestration for parallel tasks
+- Auto-summarization + action item extraction
+- Scheduling, Notion & Slack integration
+- Flowchart & document generation from conversation
 
--NumPy / Pandas
+</td>
+<td width="50%" valign="top">
 
--YAML-based model configuration
+### 🔐 Quantum-Resistant Encryption + Web3
+> *Post-Quantum Cryptography · Decentralized Verification*
 
-🔬 Notable Projects
+A research-driven encryption framework built for a post-quantum world.
 
-🚗 **Real-Time Traffic Sign + OCR Detection System**
+- Quantum-resistant encryption primitives
+- Web3 integration for decentralized identity verification
+- Designed around long-term cryptographic safety assumptions
 
--YOLO-based detection pipeline
+</td>
+</tr>
+</table>
 
--OCR with temporal consistency logic
+---
 
--Speed-limit validation with voting thresholds
+## Currently Focused On
 
--Environmental adaptation (low light, rain, fog)
+```python
+current_research = {
+    "RAG":        "Retrieval-Augmented Generation pipelines",
+    "Vision+LLM": "Vision-Language systems & grounded understanding",
+    "Robustness": "Model reliability under environmental constraints",
+    "Edge":       "Optimizing inference for edge & embedded devices",
+    "Monitoring": "AI system reliability, observability & diagnostics",
+}
+```
 
--ADAS-focused system design
+---
 
-🤖 **Multi-Agent AI Monitoring Framework**
+## GitHub Stats
 
--Built a SurveillanceAgent to detect:
+<div align="center">
 
--API failures
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=CodeyCaneCandy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeyCaneCandy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
--Model errors
+</div>
 
--Conversation deadlocks
+---
 
--Token overflows
+<div align="center">
 
--Integrated Gemini for diagnostics and intelligent suggestions
+*Open to research collaborations, interesting problems, and building things that matter.*
+<br/>
+**Let's connect →** find me on [LinkedIn](https://linkedin.com) or drop an [email](mailto:your@email.com)
 
--Designed agent-to-agent communication visualization system
-
-🔐 **Quantum-Resistant Encryption + Web3 Integration**
-
--Research-driven encryption framework
-
--Web3 integration for decentralized verification
-
-🎤 **Live Meeting Companion (AI Assistant System)**
-
--Live transcription
-
--Multi-agent orchestration
-
--Summarization + scheduling
-
--Notion & Slack integration
-
--Flowchart & document generation
-
-📈 **What I’m Currently Focused On**
-
--Retrieval-Augmented Generation (RAG) pipelines
-
--Vision + Language systems
-
--Model robustness under environmental constraints
-
-AI system reliability & monitoring
-
-Optimizing inference for edge devices
+</div>
